@@ -4,7 +4,6 @@
 'use strict';
 
 const electron = require('electron');
-// const pdf = require('electron-pdf');
 // Module to control application life.
 const app = electron.app;
 // Module to create native browser window.

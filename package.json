@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/ryanpcmcquen/amatron",
   "devDependencies": {
-    "electron-prebuilt": "*",
-    "electron-pdf": "*"
+    "electron-prebuilt": "*"
   }
 }
