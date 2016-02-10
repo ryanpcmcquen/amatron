@@ -1,5 +1,5 @@
 {
-  "name": "eleczonDrive",
+  "name": "amatron",
   "version": "0.1.0",
   "description": "Amazon Cloud Drive app powered by Electron",
   "main": "main.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanpcmcquen/eleczonDrive.git"
+    "url": "git+https://github.com/ryanpcmcquen/amatron.git"
   },
   "keywords": [
     "Electron",
@@ -18,9 +18,9 @@
   "author": "Ryan P.C. McQuen",
   "license": "GPL-2.0+",
   "bugs": {
-    "url": "https://github.com/ryanpcmcquen/eleczonDrive/issues"
+    "url": "https://github.com/ryanpcmcquen/amatron/issues"
   },
-  "homepage": "https://github.com/ryanpcmcquen/eleczonDrive",
+  "homepage": "https://github.com/ryanpcmcquen/amatron",
   "devDependencies": {
     "electron-prebuilt": "*",
     "electron-pdf": "*"
