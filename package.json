@@ -1,6 +1,6 @@
 {
   "name": "amatron",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Amazon Cloud Drive app powered by Electron",
   "main": "main.js",
   "scripts": {

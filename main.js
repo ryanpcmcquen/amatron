@@ -1,3 +1,4 @@
+/*! amatron v0.1.2 by ryanpcmcquen */
 /*global require, process*/
 /*jslint white:true, es6:true*/
 
@@ -17,8 +18,7 @@ let mainWindow;
   let createWindow = function () {
     // Create the browser window.
     mainWindow = new BrowserWindow({
-      width: 800,
-      height: 600
+      title: 'amatron'
     });
     mainWindow.setAutoHideMenuBar(true);
     mainWindow.setMenuBarVisibility(false);
