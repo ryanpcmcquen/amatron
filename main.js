@@ -1,4 +1,4 @@
-/*! amatron v0.1.3 by ryanpcmcquen */
+/*! amatron v0.1.4 by ryanpcmcquen */
 /*global require, process*/
 /*jslint white:true, es6:true*/
 

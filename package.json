@@ -1,6 +1,6 @@
 {
   "name": "amatron",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Amazon Cloud Drive app powered by Electron",
   "main": "main.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ryanpcmcquen/amatron",
   "devDependencies": {
-    "electron-prebuilt": "*"
+    "electron": "*"
   }
 }
