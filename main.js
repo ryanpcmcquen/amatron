@@ -1,4 +1,4 @@
-/*! amatron v0.1.4 by ryanpcmcquen */
+/*! amatron v0.1.5 by ryanpcmcquen */
 /*global require, process*/
 /*jslint white:true, es6:true*/
 
@@ -24,7 +24,7 @@ let mainWindow;
     mainWindow.setMenuBarVisibility(false);
     mainWindow.maximize();
 
-    mainWindow.loadURL('https://smile.amazon.com/clouddrive');
+    mainWindow.loadURL('https://smile.amazon.com/clouddrive/folder');
 
     // Open the DevTools.
     //mainWindow.webContents.openDevTools();
